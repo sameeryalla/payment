@@ -2,4 +2,4 @@
 
 env.component="payment"
 
-nodejs()
+python()
